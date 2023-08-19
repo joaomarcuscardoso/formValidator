@@ -9,6 +9,7 @@ import (
 func initializeRoutes(router *gin.Engine) {
 	// Initialize Handler
 	handler.InitializarHandler()
+	form.InitializarHandler()
 
 	v1 := router.Group("/api/v1")
 	{

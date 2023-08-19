@@ -4,6 +4,7 @@ go 1.21.0
 
 require (
 	github.com/gin-gonic/gin v1.9.1
+	github.com/pdfcrowd/pdfcrowd-go v0.0.0-20230721095743-5f03120cb676
 	gorm.io/gorm v1.25.3
 )
 

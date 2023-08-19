@@ -1,4 +1,4 @@
-package handler
+package form
 
 import (
 	"github.com/joaomarcuscardoso/formValidator/internal/config"
